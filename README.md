@@ -1,5 +1,6 @@
 # InjectorUpload
 only for inject uploading
 
-
-this is only for uploading, for official repo, go [here](https://github.com/l4tt/Ce_rbx/tree/1.6)
+## 지원되지 않습니다.
+룬에서 소스를 더이상 공개하지 않아,
+이 레포는 업데이트되지 않을 것입니다.
